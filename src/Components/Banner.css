@@ -1,0 +1,21 @@
+.banner{
+    height: 510px;
+    object-fit: contain;
+    width: 100%;
+}
+.banner_content{
+    padding-top: 350px;
+    margin-left: 20px;
+
+}
+.banner_title{
+    text-transform: uppercase;
+    font-size: 40px;
+
+
+}
+
+.banner_desc{
+    line-height: 20px;
+    
+}
